@@ -37,13 +37,23 @@ https://s1.vimeos.net/hls2/03/00008/3p229n5xf37i_h/master.m3u8?t=jFWZTM6JK1c_fsB
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/JUSTICALIGA2017DUB-BAIXO.mp4
 
 
-# The Office - Temporada 1
-https://tuservidor.com/series/the-office/s01/The.Office.S01E01.mkv
-https://tuservidor.com/series/the-office/s01/The.Office.S01E02.mkv
-https://tuservidor.com/series/the-office/s01/The.Office.S01E03.mkv
+# Canales de TV (group-title="TV")
+#EXTINF:-1 group-title="TV",Canal de Noticias
+http://ejemplo.com/stream/noticias.m3u8
 
-# The Office - Temporada 2
-https://tuservidor.com/series/the-office/s02/The.Office.S02E01.mkv
-https://tuservidor.com/series/the-office/s02/The.Office.S02E02.mkv
+#EXTINF:-1 group-title="TV",Canal Deportivo
+http://ejemplo.com/stream/deportes.ts
 
+# Películas (group-title="Películas")
+#EXTINF:7200 group-title="Películas",Película Ejemplo (2023)
+http://ejemplo.com/vod/pelicula.mp4
 
+#EXTINF:6600 group-title="Películas",Otra Película
+http://ejemplo.com/vod/otra_pelicula.mkv
+
+# Series (group-title="Series")
+#EXTINF:1800 group-title="Series" tvg-season="1" tvg-episode="1",Mi Serie S01E01
+http://ejemplo.com/series/s01e01.mp4
+
+#EXTINF:1800 group-title="Series" tvg-season="1" tvg-episode="2",Mi Serie S01E02
+http://ejemplo.com/series/s01e02.mp4 
