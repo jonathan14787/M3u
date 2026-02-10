@@ -57,3 +57,19 @@ http://ejemplo.com/series/s01e01.mp4
 
 #EXTINF:1800 group-title="Series" tvg-season="1" tvg-episode="2",Mi Serie S01E02
 http://ejemplo.com/series/s01e02.mp4 
+
+# Serie de Ejemplo
+# Temporada 1
+#EXTINF:-1 tvg-logo="nose.png" group-title="Series",Ejemplo Serie - T1E1
+https://youtu.be/l7-4s7Zx6lQ
+#EXTINF:-1 tvg-logo="nose.png" group-title="Series",Ejemplo Serie - T1E2
+https://drive.google.com/file/d/1ynnBl-hvYi8PilZ-YC81eTg02ryCC-Py/view?usp=sharing
+https://drive.google.com/file/d/1ynnBl-hvYi8PilZ-YC81eTg02ryCC-Py/view?usp=sharing
+https://drive.google.com/file/d/1ynnBl-hvYi8PilZ-YC81eTg02ryCC-Py/view?usp=sharing
+#EXTINF:-1 tvg-logo="nose.png" group-title="Series",Ejemplo Serie - T1E3
+https://drive.google.com/uc?export=download&id=1ynnBl-hvYi8PilZ-YC81eTg02ryCC-Py
+https://drive.google.com/uc?export=download&id=1ynnBl-hvYi8PilZ-YC81eTg02ryCC-Py
+#EXTINF:-1 tvg-logo="nose.png" group-title="Series",Ejemplo Serie - T1E4
+https://drive.google.com/uc?export=download&id=1ynnBl-hvYi8PilZ-YC81eTg02ryCC-Py 
+#EXTINF:-1 tvg-logo="nose.png" group-title="Series",Ejemplo Serie - T1E5
+https://youtu.be/l7-4s7Zx6lQ
