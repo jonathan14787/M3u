@@ -35,3 +35,30 @@ https://s1.vimeos.net/hls2/03/00008/3p229n5xf37i_h/master.m3u8?t=jFWZTM6JK1c_fsB
 
 #EXTINF:-1 tvg-logo="https://cdn.ome.lt/extras/capas/ligaPosterNacional.jpg" group-title="Filmes Lançamentos", Liga da Justiça
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/JUSTICALIGA2017DUB-BAIXO.mp4
+
+
+# The Office - Temporada 1
+https://tuservidor.com/series/the-office/s01/The.Office.S01E01.mkv
+https://tuservidor.com/series/the-office/s01/The.Office.S01E02.mkv
+https://tuservidor.com/series/the-office/s01/The.Office.S01E03.mkv
+
+# The Office - Temporada 2
+https://tuservidor.com/series/the-office/s02/The.Office.S02E01.mkv
+https://tuservidor.com/series/the-office/s02/The.Office.S02E02.mkv
+
+#EXTGRP:Series → The Office (US)
+
+#EXTINF:-1 tvg-name="The Office S01E01" tvg-id="TheOffice.US" group-title="Series → The Office (US)",The Office - 1x01 - Pilot
+https://tuservidor.com/series/the-office/s01/The.Office.S01E01.mkv
+# o también: http://example.com/serie/the.office/season01/episode01.mp4
+
+#EXTINF:-1 tvg-name="The Office S01E02" tvg-id="TheOffice.US" group-title="Series → The Office (US)",The Office - 1x02 - Diversity Day
+https://tuservidor.com/series/the-office/s01/The.Office.S01E02.mkv
+
+#EXTINF:-1 tvg-name="The Office S01E03" tvg-id="TheOffice.US" group-title="Series → The Office (US)",The Office - 1x03 - Health Care
+https://tuservidor.com/series/the-office/s01/The.Office.S01E03.mkv
+
+#EXTINF:-1 tvg-name="The Office S02E01" tvg-id="TheOffice.US" group-title="Series → The Office (US)",The Office - 2x01 - The Dundies
+https://tuservidor.com/series/the-office/s02/The.Office.S02E01.mkv
+
+# ... y así sigues con todos los capítulos
