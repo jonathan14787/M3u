@@ -28,10 +28,7 @@ https://youtu.be/l7-4s7Zx6lQ
 #EXTINF:-1 tvg-logo="nose.png" group-title="pelis", nose
 https://s1.vimeos.net/hls2/03/00008/3p229n5xf37i_h/master.m3u8?t=jFWZTM6JK1c_fsB_WMGuKWaBdxt5D1cjqLh9BSTtT94&s=1770734148&e=43200&v=113082568&i=0.0&sp=0&r=e
 ***FILMES***
-#EXTINF:-1 tvg-logo="nose.png" group-title="pelis", nose
-https://s1.vimeos.net/hls2/03/00008/3p229n5xf37i_h/master.m3u8?t=jFWZTM6JK1c_fsB_WMGuKWaBdxt5D1cjqLh9BSTtT94&s=1770734148&e=43200&v=113082568&i=0.0&sp=0&r=e
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/80UcpM7Sr8sahrtOTHOG5bZrBas.jpg" group-title="Filmes Lançamentos", Loucuras em Família
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/LOUCURAS2018DUB-BAIXO.mp4
+
 #PLAYLISTV: pltv-logo="https://fliperamaxxi.com/img/cms/one.png" pltv-name="Exclusivo Clientes" pltv-description="Filmes e Séries" pltv-cover="https://http2.mlstatic.com/lista-iptv-filmes-series-e-animes-13000-conteudos-lanca-D_NQ_NP_703799-MLB26626833973_012018-F.jpg" pltv-author="João Victor" pltv-site="xxxx" pltv-email="xxxx" pltv-phone="xxxx"
 
 ***FILMES***
