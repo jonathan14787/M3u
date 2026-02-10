@@ -1,0 +1,29 @@
+# Archivo de ejemplo .mu3 para Magma
+#EXTM3U
+
+# --- PELÍCULAS ---
+#EXTINF:-1 tvg-logo="nose.png" group-title="Películas",Ejemplo Película
+https://youtu.be/l7-4s7Zx6lQ
+
+# --- SERIES ---
+# Serie de Ejemplo
+# Temporada 1
+#EXTINF:-1 tvg-logo="nose.png" group-title="Series",Ejemplo Serie - T1E1
+https://youtu.be/l7-4s7Zx6lQ
+#EXTINF:-1 tvg-logo="nose.png" group-title="Series",Ejemplo Serie - T1E2
+https://drive.google.com/file/d/1ynnBl-hvYi8PilZ-YC81eTg02ryCC-Py/view?usp=sharing
+#EXTINF:-1 tvg-logo="nose.png" group-title="Series",Ejemplo Serie - T1E3
+https://drive.google.com/uc?export=download&id=1ynnBl-hvYi8PilZ-YC81eTg02ryCC-Py
+#EXTINF:-1 tvg-logo="nose.png" group-title="Series",Ejemplo Serie - T1E4
+https://youtu.be/l7-4s7Zx6lQ
+#EXTINF:-1 tvg-logo="nose.png" group-title="Series",Ejemplo Serie - T1E5
+https://youtu.be/l7-4s7Zx6lQ
+
+# --- TV EN VIVO ---
+#EXTINF:-1 tvg-logo="nose.png" group-title="TV",Canal Live Ejemplo
+https://youtu.be/l7-4s7Zx6lQ
+#EXTINF:-1 tvg-logo="nose.png" group-title="pelis", nose
+https://s1.vimeos.net/hls2/03/00008/3p229n5xf37i_h/master.m3u8?t=jFWZTM6JK1c_fsB_WMGuKWaBdxt5D1cjqLh9BSTtT94&s=1770734148&e=43200&v=113082568&i=0.0&sp=0&r=e
+***FILMES***
+#EXTINF:-1 tvg-logo="nose.png" group-title="pelis", nose
+https://s1.vimeos.net/hls2/03/00008/3p229n5xf37i_h/master.m3u8?t=jFWZTM6JK1c_fsB_WMGuKWaBdxt5D1cjqLh9BSTtT94&s=1770734148&e=43200&v=113082568&i=0.0&sp=0&r=e
